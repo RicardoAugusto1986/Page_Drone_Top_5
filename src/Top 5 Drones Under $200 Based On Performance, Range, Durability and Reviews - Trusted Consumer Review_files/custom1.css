@@ -1,0 +1,35 @@
+.entry-content > .summary-box, .main-advertorial > .summary-box {
+	padding: 15px !important;
+	background: #fff0c7 !important;
+}
+
+.checkbox-list {
+	margin-bottom: 20px;
+}
+
+.checkbox-list li {
+	padding-left: 25px;
+	margin-bottom: 10px;
+	font-size: 1.125rem;
+}
+
+.checkbox-list li i {
+	margin-right: 5px;
+	color: #0b7b09;
+	font-size: 1.375rem;
+	vertical-align: middle;
+}
+
+.checkbox-list li span {
+	vertical-align: middle;
+}
+
+.checkbox-list li:last-child {
+	margin-bottom: 0;
+}
+
+p video {
+    display: block;
+    width: 100%;
+    height: auto;
+}
